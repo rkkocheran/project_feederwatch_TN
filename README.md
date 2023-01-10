@@ -6,3 +6,5 @@ This repository contains a Tableau presentation of an analysis of Citizen-Scient
 All data was retrieved from https://feederwatch.org/explore/raw-dataset-requests/, which holds records of all submitted observations. Datasets are available as .CSV files and range in size from 380 MB - 1.3 GB.
 
 The Project Feederwatch Data Dictionary is also available at https://feederwatch.org/explore/raw-dataset-requests/.
+
+This project is also available on Tableau Public at https://public.tableau.com/app/profile/rachel.kocheran.
