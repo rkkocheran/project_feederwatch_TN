@@ -3,7 +3,7 @@
 
 This repository contains a Tableau presentation of an analysis of Citizen-Scientist observation data available from Project FeederWatch, completed during my Data Analytics apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/). Want to view the Tableau presentation? [Click here to explore the presentation dashboards on Tableau Public!](https://public.tableau.com/app/profile/rachel.kocheran)
 
-In this project, I analyzed citizen-scientist observation data from Project FeederWatch to determine songbird migration and participant submission patterns in Tennessee. The technology and skills employed to achieve this goal include: Tableau, SQL, PostgreSQL, pgAdmin
+In this project, I analyzed citizen-scientist observation data from Project FeederWatch to determine songbird migration and participant submission patterns in Tennessee. The technology and skills employed to achieve this goal include: Tableau and Microsoft Excel.
 
 It uses data for Tennessee for winter observations submitted from November 2010 to April 2021.
 
